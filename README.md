@@ -67,7 +67,7 @@ endmodule
 JK FLIPFLOP
 ![Screenshot 2024-12-03 142821](https://github.com/user-attachments/assets/743a8423-9e2f-47f7-b0bd-c988c7820e74)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 JK FLIPFLOP
 ![Screenshot 2024-12-03 142951](https://github.com/user-attachments/assets/cbe6a8e3-ae4a-4b1f-ab39-a1c424969fe4)
